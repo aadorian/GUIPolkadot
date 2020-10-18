@@ -1,3 +1,3 @@
 # Substrate Front End Template
 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+![alt text](Screen Shot 2020-10-18 at 1.19.53 AM.png)
