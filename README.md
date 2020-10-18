@@ -1,3 +1,3 @@
 # Substrate Front End Template
 
-![alt text](Screen Shot 2020-10-18 at 1.19.53 AM.png)
+![alt text](https://github.com/aadorian/GUIPolkadot/blob/main/Screen%20Shot%202020-10-18%20at%201.19.53%20AM.png)
